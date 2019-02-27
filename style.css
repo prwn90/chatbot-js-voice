@@ -1,0 +1,47 @@
+body 
+{ 
+	color: #421; font-weight: bold; font-size: 18px; 
+	background: #931f8a;
+	background-image: url("robot.png"); 
+	background-repeat: repeat-y; 
+}
+h1
+{
+	text-align: right;
+	margin-right: 83px;
+	margin-top: 90px;
+	font-size: 35px;
+	font-family: Roboto Bold, sans-serif;
+	color: #ffff;
+}
+span { 
+	color: #e8e4e1;
+	
+} 
+::-webkit-input-placeholder { 
+	color: #474645; 
+}
+#main { 
+	position: fixed; top: 40%; right: 60px; width: 400px; 
+	border: 5px solid #ffff; 
+	border-radius: 9px;
+	padding: 45px; 
+}
+#main div { 
+	margin: 10px; 
+	color: #fff;
+	padding: 10px;
+	
+} 
+#input { 
+	border: 0; 
+	background: #fff; 
+	padding: 15px;
+	border: 5px solid #c6c2c6; 
+	border-radius: 8px;
+}
+
+#chatbot
+{
+	color: #f9fc3f;
+}
